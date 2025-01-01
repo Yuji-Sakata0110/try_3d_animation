@@ -1,2 +1,4 @@
 # try_3d_animation
-try 3D and animation for my homepage
+
+Use ReactJS, ThreeJS, Annation Libraries.<br>
+I'm going to research if this front-end technique is suitable for realizing my envisioned website.
